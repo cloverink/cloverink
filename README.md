@@ -1,4 +1,4 @@
-### I'm Aran Chananar :)
+### I'm Aran Cloverink Chananar :)
 🙃 EDD = Error Driven Development
 <!--
 **cloverink/cloverink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
