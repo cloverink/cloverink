@@ -6,3 +6,5 @@
 [![Gitlab Badge](https://img.shields.io/badge/-cloverink-24292e?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/cloverink)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloverink&layout=compact&theme=codeSTACKr)](https://github.com/cloverink)
+
+![magic](https://user-images.githubusercontent.com/26240331/163918543-041dcb66-979a-436c-8704-56f92bcc30e0.gif)
