@@ -9,5 +9,4 @@
 
 <img src="https://user-images.githubusercontent.com/26240331/163918543-041dcb66-979a-436c-8704-56f92bcc30e0.gif" width="250" />
 
-
 [![My Stack](https://skillicons.dev/icons?i=nodejs,js,typescript,python,express,prisma,postgres,mysql,mongo,redis,docker,nginx,linux,kubernetes,nestjs,fastapi,django,react,redux,nextjs,webpack,gulp,pug,html,css,scss,tailwind,jquery,rollupjs,ruby,java,php,perl,dotnet,selenium,jest,vercel,heroku,vscode,eclipse,postman,git,github,githubactions,gitlab,jenkins,gcp,firebase,figma,grafana,graphql,stackoverflow&perline=13)](https://skillicons.dev)
