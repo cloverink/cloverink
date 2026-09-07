@@ -6,14 +6,13 @@
 
 # Aran Cloverink Chananar
 
-**I'm just a software engineer** — shipping TypeScript end-to-end from Bangkok,
-building survey & experience platforms, and letting the errors tell me what to build next.
+**I'm just a software engineer** — shipping TypeScript end-to-end from Bangkok
+and letting the errors tell me what to build next.
 
 `🙃 EDD = Error Driven Development`
 
 [![Website](https://img.shields.io/badge/cloverink.com-10b981?style=for-the-badge)](https://cloverink.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://th.linkedin.com/in/cloverink)
-[![Invent Experience](https://img.shields.io/badge/inventexp.com-0f172a?style=for-the-badge&logo=react&logoColor=61dafb)](https://inventexp.com)
 [![shipwright](https://img.shields.io/badge/shipwright-Claude_Code_plugin-7c3aed?style=for-the-badge&logo=claude&logoColor=white)](https://github.com/cloverink/shipwright)
 
 </div>
@@ -44,36 +43,6 @@ building survey & experience platforms, and letting the errors tell me what to b
 </td>
 </tr>
 </table>
-
-<br />
-
-## 🚀 What I build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Invent Experience · IX Platform
-
-**Survey & data-collection platform** built with [@inventtech](https://github.com/inventtech) — drag-and-drop survey builder, campaigns, leads, rewards, a widget-based insights dashboard, and AI-powered analysis in one multi-tenant workspace.
-
-**[→ inventexp.com](https://inventexp.com)**
-
-</td>
-<td width="50%" valign="top">
-
-### How I engineer
-
-- **TypeScript end-to-end** — React 19 up front, NestJS 11 behind, one Bun + Turborepo monorepo
-- **Infra as code** — PostgreSQL + Redis, BullMQ workers, AWS ECS Fargate, S3 + CloudFront, all in Terraform
-- **Quality gates on every PR** — 8,000+ unit tests, zero-warning lint, Playwright E2E, squash-merge only
-- **AI-native workflow** — Claude Code drives audit → review → docs → ship; I read the errors
-
-</td>
-</tr>
-</table>
-
-<sub>Day job: software engineer at <a href="https://github.com/ALSSoftware">Alliance Laundry Systems Software</a>.</sub>
 
 <br />
 
